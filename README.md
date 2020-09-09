@@ -8,5 +8,7 @@ Public subnet2  ( Default 10.192.11.0/24 )
 
 Private Subnet1 ( Default 10.192.20.0/24 ) 
 Private Subnet2  (Default 10.192.21.0/24 ) 
+
 NAT gateway1
+
 NAT gateway2 
